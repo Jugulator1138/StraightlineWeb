@@ -1,0 +1,68 @@
+{
+  "projects": [
+    {
+      "id": "kitchen-remodel",
+      "title": "Full Kitchen Remodel",
+      "category": "renovations",
+      "caption": "Complete cabinet and countertop renovation",
+      "images": ["hero.jpg"],
+      "featured": true
+    },
+    {
+      "id": "custom-desk",
+      "title": "Executive Desk",
+      "category": "woodworking",
+      "caption": "Walnut and steel custom build",
+      "images": ["hero.jpg"],
+      "featured": true
+    },
+    {
+      "id": "subwoofer-enclosure",
+      "title": "Car Audio Enclosure",
+      "category": "audio",
+      "caption": "Ported enclosure built to spec",
+      "images": ["hero.jpg"],
+      "featured": true
+    },
+    {
+      "id": "live-edge-table",
+      "title": "Live Edge Coffee Table",
+      "category": "woodworking",
+      "caption": "Maple slab with epoxy river",
+      "images": ["hero.jpg"],
+      "featured": true
+    },
+    {
+      "id": "custom-bar",
+      "title": "Home Bar Build",
+      "category": "renovations",
+      "caption": "Full custom bar with storage",
+      "images": ["hero.jpg"],
+      "featured": true
+    },
+    {
+      "id": "cabinet-refinish",
+      "title": "Cabinet Refinishing",
+      "category": "finishing",
+      "caption": "Professional spray finish",
+      "images": ["hero.jpg"],
+      "featured": true
+    },
+    {
+      "id": "utility-trailer",
+      "title": "Custom Utility Trailer",
+      "category": "woodworking",
+      "caption": "Welded frame with wood deck",
+      "images": ["hero.jpg"],
+      "featured": true
+    },
+    {
+      "id": "closet-system",
+      "title": "Built-In Closet",
+      "category": "renovations",
+      "caption": "Custom organization system",
+      "images": ["hero.jpg"],
+      "featured": true
+    }
+  ]
+}
